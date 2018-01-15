@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+
+    You can also add your credentials to an existing key, using this line:
+    06:3C:92:AB:BE:1C:05:BA:58:C7:FC:B3:CC:03:06:52:46:F3:D1:31;com.example.android.myapplication
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (AIzaSyAN8aXGDZHHfyHTV5PWA1KY0BMGaYzkVT8), replace the "google_maps_key"
+    string in this file.
+
+https://maps.googleapis.com/maps/api/place/textsearch/json?
+query=123+main+street&location=42.3675294,-71.186966&radius=10000&key=AIzaSyDLIpsK-N_mjiq_B3EeWlzemhh4B5zRF-w
+
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+       AIzaSyAN8aXGDZHHfyHTV5PWA1KY0BMGaYzkVT8
+    </string>
+</resources>
